@@ -1,4 +1,4 @@
-# Inside maps project
+\*Inside maps project
 
 # Tech stack
 
@@ -10,10 +10,10 @@
 
 ## To start working on the task, you should use provided code base and enhance it with the following features:
 
-## npm install or npm install --legacy-peer-deps
+1. npm install or npm install --legacy-peer-deps
 
-## npm start
+2. npm start
 
-## npm run build (for deployment)
+3. npm run build (for deployment)
 
-## Notes: The build version of this app doesn't load panorama correctly.
+4. Notes: The build version of this app doesn't load panorama correctly.
