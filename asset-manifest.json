@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InsideMaps/static/css/main.864e5741.css",
+    "main.js": "/InsideMaps/static/js/main.23e7c844.js",
+    "index.html": "/InsideMaps/index.html",
+    "main.864e5741.css.map": "/InsideMaps/static/css/main.864e5741.css.map",
+    "main.23e7c844.js.map": "/InsideMaps/static/js/main.23e7c844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864e5741.css",
+    "static/js/main.23e7c844.js"
+  ]
+}
